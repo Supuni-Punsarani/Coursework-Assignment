@@ -4,10 +4,11 @@
 # File Compresssion Machine
 
 
-![th](https://github.com/Supuni-Punsarani/Coursework-Assignment/assets/114279717/9de31a73-4f72-411d-bbc4-6c53ec3ffe19)![th (1)](https://github.com/Supuni-Punsarani/Coursework-Assignment/assets/114279717/79115ab9-844f-45f2-8261-84939b55afa5)
+![th](https://github.com/Supuni-Punsarani/Coursework-Assignment/assets/114279717/9de31a73-4f72-411d-bbc4-6c53ec3ffe19)![th (2)](https://github.com/Supuni-Punsarani/Coursework-Assignment/assets/114279717/c28e061f-f227-4f60-a840-076865341e55)
 
 
 # Introduction
+
 
     The C program presented here is a simple file compression utility based on the Huffman coding algorithm. Huffman coding is a widely used lossless data compression technique that creates variable-length codes for characters based on their frequencies in the input file. The more frequent characters are assigned shorter codes, leading to efficient compression.
 
